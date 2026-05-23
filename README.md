@@ -6,7 +6,10 @@ It is meant to keep assistants aligned with the surrounding codebase, reinforce 
 
 Use this plugin when you want AI help that respects existing C conventions instead of rewriting code in a generic or inconsistent style. It is especially useful for projects that rely on `clang-format`, conventional header/source organization, and stable long-term maintainability.
 
-Credit: the original Recommended C style and coding rules were created by [MaJerle](https://github.com/MaJerle/c-code-style).
+> [!IMPORTANT]
+> Credit: the original Recommended C style and coding rules were created by [MaJerle](https://github.com/MaJerle/c-code-style).
+
+<img width="1419" height="608" alt="c-style-and-coding_banner" src="https://github.com/user-attachments/assets/9090e85d-5afc-4fe8-93a5-ec791227bfcc" />
 
 ## What it covers
 
@@ -20,6 +23,9 @@ Credit: the original Recommended C style and coding rules were created by [MaJer
 - Project-level consistency across existing codebases
 
 ## Installation
+
+> [!NOTE]
+> Claude Code installation guide is coming very soon.
 
 <details>
 <summary>Cursor</summary>
