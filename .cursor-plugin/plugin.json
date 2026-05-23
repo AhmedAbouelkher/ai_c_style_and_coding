@@ -1,0 +1,35 @@
+{
+    "name": "c-style-and-coding",
+    "displayName": "AI Agent rules for C Programming",
+    "description": "AI Agent rules for Recommended C code style and coding rules for standard C99 or later",
+    "version": "1.0.0",
+    "author": {
+        "name": "Ahmed Abouelkher",
+        "email": "ahmedabouelkher@gmail.com"
+    },
+    "homepage": "https://github.com/AhmedAbouelkher/ai_c_style_and_coding.git",
+    "repository": "https://github.com/AhmedAbouelkher/ai_c_style_and_coding.git",
+    "license": "MIT",
+    "keywords": [
+        "plugin",
+        "ai-agent",
+        "skills",
+        "agentic",
+        "engineering",
+        "developer",
+        "coding",
+        "productivity",
+        "c",
+        "c99",
+        "c-style",
+        "c-coding",
+        "c-rules",
+        "c-standard",
+        "c-programming",
+        "c-development",
+        "c-language",
+        "c-programming-language",
+        "c-programming-language-rules"
+    ],
+    "rules": "./rules/"
+}
