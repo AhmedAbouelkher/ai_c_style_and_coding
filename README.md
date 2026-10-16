@@ -1,5 +1,11 @@
 # AI Agent Rules for C Programming
 
+## Impotant Update
+This repo has been achrived because it is no longer needed because [the original auther](https://github.com/MaJerle/c-code-style) created a new agent skill which is much better and I personally use it more now.
+Enjoy!
+
+---
+
 This repository packages a focused set of AI agent rules for recommended C code style and coding practices for standard C99 or later.
 
 It is meant to keep assistants aligned with the surrounding codebase, reinforce consistent formatting and naming, and reduce style drift across C projects. The core guidance lives in [`rules/C-style-and-coding-rules.mdc`](./rules/C-style-and-coding-rules.mdc), which is loaded automatically for matching files.
